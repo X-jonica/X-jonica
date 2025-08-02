@@ -27,7 +27,7 @@
 - 📧 Email : jonicahenintsoa@gmail.com  
 - 🌍 Localisation : Fianarantsoa, Madagascar  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jonica%20henintsoa)  
-- 🧑‍💻 [Mon GitHub](https://github.com/X-jonica)  
+- 🧑‍💻 [Mon Portfolio](https://mon-portfolio-beta-two.vercel.app/)  
 
 ---
 
