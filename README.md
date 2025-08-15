@@ -73,6 +73,11 @@ I love creating **useful solutions** and turning ideas into **real, impactful in
 
 ---
 
+## 📚 Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=X-jonica&layout=compact&theme=radical)](https://github.com/X-jonica)
+
+---
+
 ## 📫 Contact  
 - 📧 **Email:** [jonicahenintsoa@gmail.com](mailto:jonicahenintsoa@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/jonica-henintsoa-96a198357](https://www.linkedin.com/in/jonica-henintsoa-96a198357)  
