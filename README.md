@@ -73,7 +73,7 @@ I'm a passionate web developer currently pursuing a Master's in Computer Science
   <a href="https://mon-portfolio-beta-two.vercel.app/">
     <img src="https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge" alt="Portfolio" />
   </a>
-  <a href="https://cvdesignr.com/p/689d9cab81e04">
+  <a href="https://cvdesignr.com/p/699e9545e1432">
     <img src="https://img.shields.io/badge/-My_CV-4285F4?logo=googledocs&logoColor=white&style=for-the-badge" alt="CV" />
   </a>
 </p>
